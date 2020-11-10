@@ -1,2 +1,2 @@
 # My example
-This function cheсking is decimal or not
+It is my start project
